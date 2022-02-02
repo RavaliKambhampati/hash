@@ -1,0 +1,7 @@
+D:\c# pratice\binarysearch\bin\Debug\binarysearch.exe.config
+D:\c# pratice\binarysearch\bin\Debug\binarysearch.exe
+D:\c# pratice\binarysearch\bin\Debug\binarysearch.pdb
+D:\c# pratice\binarysearch\obj\Debug\binarysearch.csproj.AssemblyReference.cache
+D:\c# pratice\binarysearch\obj\Debug\binarysearch.csproj.CoreCompileInputs.cache
+D:\c# pratice\binarysearch\obj\Debug\binarysearch.exe
+D:\c# pratice\binarysearch\obj\Debug\binarysearch.pdb
