@@ -1,0 +1,7 @@
+D:\c# pratice\abstractex\abstractex\bin\Debug\abstractex.exe.config
+D:\c# pratice\abstractex\abstractex\bin\Debug\abstractex.exe
+D:\c# pratice\abstractex\abstractex\bin\Debug\abstractex.pdb
+D:\c# pratice\abstractex\abstractex\obj\Debug\abstractex.csproj.CoreCompileInputs.cache
+D:\c# pratice\abstractex\abstractex\obj\Debug\abstractex.exe
+D:\c# pratice\abstractex\abstractex\obj\Debug\abstractex.pdb
+D:\c# pratice\abstractex\abstractex\obj\Debug\abstractex.csproj.AssemblyReference.cache
